@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaculaV2", "MaculaV2\MaculaV2.csproj", "{19D519EC-ADC9-4D6C-8CB0-3404590CF95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaculaTests", "MaculaTests\MaculaTests.csproj", "{6599A59B-BBAF-419A-9523-CA52F6C8F742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D519EC-ADC9-4D6C-8CB0-3404590CF95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D519EC-ADC9-4D6C-8CB0-3404590CF95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D519EC-ADC9-4D6C-8CB0-3404590CF95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D519EC-ADC9-4D6C-8CB0-3404590CF95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6599A59B-BBAF-419A-9523-CA52F6C8F742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6599A59B-BBAF-419A-9523-CA52F6C8F742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6599A59B-BBAF-419A-9523-CA52F6C8F742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6599A59B-BBAF-419A-9523-CA52F6C8F742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC9583C-D62E-4C14-836A-96C800A50017}
+	EndGlobalSection
+EndGlobal

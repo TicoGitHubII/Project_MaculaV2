@@ -1,0 +1,10 @@
+node_modules/
+bower_components/
+*.log
+packages/
+build/
+dist/
+.vs/
+bin/
+obj/
+*.user/
